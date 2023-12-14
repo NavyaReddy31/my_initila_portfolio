@@ -6,11 +6,11 @@ website:
   favicon: "images/navya.jpg"
   page-footer:
     center: |
-      [Contact Navy Reddy](navya.navyreddydontham@my.unt.edu)
+      [Contact Navy Reddy](navya.navyareddydontham@my.unt.edu)
     left: |
-      Made with [Quarto](https://quarto.org/)
+      Made with [Navya Reddy](https://quarto.org/)
     right: |
-      [Github Code Repo](https://github.com)
+      [Github Code Repo](https://github.com/NavyaReddy31/my_initila_portfolio.git)
     background: "#e3275a"
     
   navbar:

@@ -15,7 +15,7 @@ about:
       href: https://github.com/Navyareddy31/
     - icon: envelope
       text: Contact me
-      href: mailto:navya.navyreddydontham@my.unt.edu
+      href: mailto:navya.navyareddydontham@my.unt.edu
 ---
 
 ## BIO
