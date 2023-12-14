@@ -6,7 +6,7 @@ website:
   favicon: "images/navya.jpg"
   page-footer:
     center: |
-      [Contact Navy Reddy](navya.navyareddydontham@my.unt.edu)
+      [Contact Navya Reddy](mailto:navya.navyareddydontham@my.unt.edu)
     left: |
       Made with [Navya Reddy](https://quarto.org/)
     right: |
